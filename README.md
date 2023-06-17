@@ -81,11 +81,9 @@ All duplicate rows were dropped.
 ## Exploratory Data Analysis
 
 Performed EDA and tried answering the following questions:
-
-```
- Q1)
-```
-
+ 
+ 
+ 
 Mainly performed using Matplotlib and Seaborn library and the following graph and plots had been used:
    - Bar Plot.
    - Pie Chart.
