@@ -81,10 +81,73 @@ All duplicate rows were dropped.
 ## Exploratory Data Analysis
 
 Performed EDA and tried answering the following questions:
- 
+ 1) Which type of hotel is mostly prefered by the guests?
+2) hotel booking percentage of guests?
+3) What is the most prefered room type by the customers?
+4) What type of food is mostly prefered by the guests?
+5) In which month most of the bookings happened?
+6) which year had highest bookings?
+7) Which distribution channel is mostly used for hotel booking?
+8) percent of repeated hotel booked by guest?
+9) Which hotel type has the highest ADR?
+10) which hotel has longer waiting time?
+11) Which distribution channel contributed more to adr in order to increase the income?
+12) What is optimal stay length in both types of hotel?
+13) Data in histgram format?
+14) create correlation heatmap?
+15) create pair plot?
  
  
 Mainly performed using Matplotlib and Seaborn library and the following graph and plots had been used:
    - Bar Plot.
    - Pie Chart.
    - Line Plot.
+   - Heatmap.
+
+Analysis:
+Performed analysis and made following conclusions:
+   1) To increase hotel business some factors are important like high revenue, generation, customers 
+   satisfaction, facilities provided by hotel etc.
+   2) I am able to achieve the same things by showing to client which hotel is most preferred , percentage of 
+    repeated guests, mostly preferred food by guests, then which hotel has highest adr etc.
+   3) Most preferred room type is achieved by countplot so the client can be well prepare in advance and this 
+    insight help client for further enhancement of their hospatility.
+   4) I am able to show which food type is mostly preferred so client can offer the mostly preferred food to 
+    the guests.
+   5) Most preferred month are shown by barplot so client can be well prepared in advanced so that minimum 
+     grivances would be faced by client.
+   6) Using barplot I am able to show which hotel type has high adr so client can analyse which hotel has 
+     high income.
+   7) I am able to show which hotel is busiest hotel sp client can do relatable changes in facilities in less 
+    busy hotel type.
+   8) I am able to show the relationship between repeated guests and previous bookings not cancelled so 
+      client can preferred repeated guests.
+   9) Using barplot relationship between adr and total number of people is shown so client can preferred 
+      maximum number of people.
+
+Conclusion
+1) City Hotel seems to be more preferred among travellers and it also generates more revenue & profit.
+
+2) Most number of bookings are made in July and August as compared rest of the months.
+
+3) Room Type A is the most preferred room type among travellers.
+
+4) Most of the guest stays for 1-4 days in the hotels.
+
+5) City Hotel retains more number of guests.
+
+6) Around one-fourth of the total bookings gets cancelled. More cancellations are from City Hotel.
+
+7) New guest tends to cancel bookings more than repeated customers.
+
+8) Lead time, number of days in waiting list or assignation of reserved room to customer does not affect cancellation of bookings.
+
+9) Corporate has the most percentage of repeated guests while TA/TO has the least whereas in the case of cancelled bookings TA/TO has the most percentage while Corporate has the least.
+
+10) The length of the stay decreases as ADR increases probably to reduce the cost.
+    
+Challenges
+(1) Lot of null values were present in the dataset.
+(2) Data type of some Data was in wrong format.
+(3) Lot of duplicate data.
+(4) Which visualization techniques to use was a challenge?
