@@ -147,11 +147,7 @@ Conclusion
 10) The length of the stay decreases as ADR increases probably to reduce the cost.
     
 Challenges
-
-(1) Lot of null values were present in the dataset.
-
-(2) Data type of some Data was in wrong format. 
-
-(3) Lot of duplicate data. 
-
-(4) Which visualization techniques to use was a challenge? 
+   1) Lot of null values were present in the dataset.
+   2) Data type of some Data was in wrong format.
+   3) Lot of duplicate data.
+   4) Which visualization techniques to use was a challenge? 
