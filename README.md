@@ -150,8 +150,8 @@ Challenges
 
 (1) Lot of null values were present in the dataset.
 
-(2) Data type of some Data was in wrong format.
+(2) Data type of some Data was in wrong format. 
 
-(3) Lot of duplicate data.
+(3) Lot of duplicate data. 
 
-(4) Which visualization techniques to use was a challenge?
+(4) Which visualization techniques to use was a challenge? 
