@@ -138,14 +138,23 @@ Conclusion
 5) Most guest are from Portugal and other Europian contries.
 
 PRT: Portugal
+
 GBR: United Kingdom
+
 FRA: France
+
 ESP: Spain
+
 DEU: Germany
+
 ITA: Italy
+
 IRL: Ireland
+
 BEL: Belgium
+
 BRA: Brazil
+
 NLD: Nrlandsethe
 
 6) City Hotel retains more number of guests.
