@@ -87,6 +87,7 @@ Performed EDA and tried answering the following questions:
 4) What type of food is mostly prefered by the guests?
 5) In which month most of the bookings happened?
 6) which year had highest bookings?
+6.1) Which country guests more come from?
 7) Which distribution channel is mostly used for hotel booking?
 8) percent of repeated hotel booked by guest?
 9) Which hotel type has the highest ADR?
@@ -134,17 +135,30 @@ Conclusion
 
 4) Most of the guest stays for 1-4 days in the hotels.
 
-5) City Hotel retains more number of guests.
+5) Most guest are from Portugal and other Europian contries.
 
-6) Around one-fourth of the total bookings gets cancelled. More cancellations are from City Hotel.
+PRT: Portugal
+GBR: United Kingdom
+FRA: France
+ESP: Spain
+DEU: Germany
+ITA: Italy
+IRL: Ireland
+BEL: Belgium
+BRA: Brazil
+NLD: Nrlandsethe
 
-7) New guest tends to cancel bookings more than repeated customers.
+6) City Hotel retains more number of guests.
 
-8) Lead time, number of days in waiting list or assignation of reserved room to customer does not affect cancellation of bookings.
+7) Around one-fourth of the total bookings gets cancelled. More cancellations are from City Hotel.
 
-9) Corporate has the most percentage of repeated guests while TA/TO has the least whereas in the case of cancelled bookings TA/TO has the most percentage while Corporate has the least.
+8) New guest tends to cancel bookings more than repeated customers.
 
-10) The length of the stay decreases as ADR increases probably to reduce the cost.
+9) Lead time, number of days in waiting list or assignation of reserved room to customer does not affect cancellation of bookings.
+
+10) Corporate has the most percentage of repeated guests while TA/TO has the least whereas in the case of cancelled bookings TA/TO has the most percentage while Corporate has the least.
+
+11) The length of the stay decreases as ADR increases probably to reduce the cost.
     
 Challenges
    1) Lot of null values were present in the dataset.
