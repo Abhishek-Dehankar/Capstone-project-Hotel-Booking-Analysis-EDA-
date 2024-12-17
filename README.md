@@ -168,6 +168,7 @@ Conclusion
 10) Corporate has the most percentage of repeated guests while TA/TO has the least whereas in the case of cancelled bookings TA/TO has the most percentage while Corporate has the least.
 
 11) The length of the stay decreases as ADR increases probably to reduce the cost.
+Its was Great EDA Project to enhance my skills.
     
 Challenges
    1) Lot of null values were present in the dataset.
